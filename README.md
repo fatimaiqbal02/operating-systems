@@ -14,8 +14,9 @@ The repository includes implementations for the following Operating System conce
 - **Anonymous & Named Pipes:** Illustrates communication between processes using pipes, both anonymous and named.
 - **Semaphores (V):** Shows the use of semaphores to control access to shared resources and synchronization among processes.
 - **Fork() Call:** Covers the fork() system call for creating new processes in a parent-child relationship.
-- **Sockets:** Implements basic socket programming for network communication.
+- **Sockets:** Implements basic socket programming for network communication (single server and multiple clients) & (multiple servers and clients)
 - **Dining Philospher Problem:** Implementation of Dining Philospher problem's solution using system V semaphores and Pthreads.
+- **Threads:** Using Pthread library to create and work with multiple threads.
 
 # 
 Thank you for visiting this repository, and I hope you find these OS practice codes helpful in your learning journey! If you have any questions or suggestions, 
